@@ -1,12 +1,16 @@
-  <head>
-    <title>Gothons Of Plant Percal #25</title>
-  </head>
+ <html>
+   <head>
+       <title>Gothons Of Plant Percal #25</title>
+    </head>
   <body>
-    {% if greeting %}
-      I just wanted to say
-      <em style="color: green; font-size: 2em;">{{ greeting}}</em>.
-    {% else %}
-        <em>Hello</em>, world!
-    {% endif %}
- </body>
+
+ {% if greeting %}
+     I just wanted to say <em style="color: green; font-size: 2em;">{{ greeting }}</em>.
+ {% else %}
+     <em>Hello</em>, world!
+ {% endif %}
+
+ <p><a href="/hello">Try again.</a></p>
+
+  </body>
 </html>

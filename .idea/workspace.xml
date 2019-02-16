@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c89a85d5-52f6-408b-8ded-f96599962079" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Kivy/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kivy/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kivy/my.kv1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kivy/mykv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tk_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk_button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk_entry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk_listbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk_message.py" afterDir="false" />
+    <list default="true" id="c89a85d5-52f6-408b-8ded-f96599962079" name="Default Changelist" comment="none">
+      <change afterPath="$PROJECT_DIR$/tk_image.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +29,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/django_project/users/forms.py" />
         <option value="$PROJECT_DIR$/django_project/users/templates/users/profile.html" />
         <option value="$PROJECT_DIR$/django_project/users/views.py" />
         <option value="$PROJECT_DIR$/django_project/users/apps.py" />
@@ -89,6 +79,7 @@
         <option value="$PROJECT_DIR$/tk_check.py" />
         <option value="$PROJECT_DIR$/Kivy/main3.py" />
         <option value="$PROJECT_DIR$/Kivy/mykv" />
+        <option value="$PROJECT_DIR$/tk_image.py" />
       </list>
     </option>
   </component>
@@ -111,11 +102,6 @@
             <path>
               <item name="pydir" type="b2602c69:ProjectViewProjectNode" />
               <item name="pydir" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pydir" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pydir" type="462c0819:PsiDirectoryNode" />
-              <item name="Kivy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550072132034</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="none">
+      <created>1550172278796</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550172278796</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -365,9 +358,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17755532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21356148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -408,16 +401,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/django_project/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_project/blog/templates/blog/post_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -664,9 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/square_nums.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -794,6 +774,16 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tk_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
